@@ -1,0 +1,2 @@
+# FinanceTracker
+Tracks finances
